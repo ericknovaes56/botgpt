@@ -1,0 +1,20 @@
+{
+    "servers-list": [
+        {
+            "servers": [
+                {
+                    "id": 1101247237868224635,
+                    "nome": "backup erickgamer56",
+                    "date": "2023-06-01",
+                    "adm-active": false
+                },
+                {
+                    "id": 1036763047542390934,
+                    "nome": "WorkStation",
+                    "date": "2023-06-01",
+                    "adm-active": false
+                }
+            ]
+        }
+    ]
+}
