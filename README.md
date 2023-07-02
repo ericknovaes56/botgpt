@@ -4,3 +4,7 @@ Como usuário do bot, você pretende utilizá-lo apenas para fins educativos. Em
 o indivíduo responsável poderá sofrer punições.
 
 @ErickGamer56 não compactua com qualquer tipo de comportamento inadequado.
+
+Dados:
+
+No BeastGPT, nenhum dado de mensagens é guardado permanentemente.
