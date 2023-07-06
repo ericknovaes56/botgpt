@@ -29,6 +29,7 @@ QUAL É O PROCESSO PARA QUE OS USUÁRIOS SOLICITEM A EXCLUSÃO DE SEUS DADOS?
 - Não armazeno dados do usuario
 
 Host: https://squarecloud.app/
+
 BIBLIOTECA SEU BOT FOI ESCRITO: discord.py
 
 Segurança:
